@@ -1,0 +1,1 @@
+# Hrushovski's patterns (after Hrushovski and Simon)
